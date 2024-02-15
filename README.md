@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christopherjoyjayakumari
 - 👀 I’m interested in to interesting things in web developing
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on progra developer and designer in app development
+- 💞️ I’m looking to collaborate on program developer and designer in app development
 - 📫 How to reach me you cannot reach me because i don't have any social media bass
 
 <!---
