@@ -14,7 +14,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-joy-jaya-k
 
 ### Web Development
 - Completed Frontend Mentor projects, demonstrating proficiency in HTML, CSS, and JavaScript.
-- Implemented projects using MERN stack, showcasing full-stack development capabilities.
+- Implemented projects using MERN stack and Java SpringBoot, showcasing full-stack development capabilities.
 
 ### Java Projects
 - Advanced Java projects demonstrating strong understanding and application of Java concepts.
