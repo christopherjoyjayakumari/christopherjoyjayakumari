@@ -1,16 +1,13 @@
 # Christopher J - Portfolio
 
 ## About Me
-I am Christopher J, currently pursuing B.E in Computer Science Engineering in Chennai, Tamil Nadu, India. Passionate about problem-solving and coding, I thrive on challenges and enjoy delving into various aspects of software development.
+I am Christopher J, currently pursuing B.E in Computer Science Engineering in Chennai, Tamil Nadu, India. Passionate about problem-solving and coding, I thrive on challenges and enjoy delving into various aspects of software as well as Web development.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-joy-jaya-kumari-395ab8216/) | Follow me on [Instagram](https://www.instagram.com/christopher.joyjayakumari/)
 
 ---
 
 ## Projects
-
-### Game Development
-- Developed several interactive games showcasing creativity and problem-solving skills.
 
 ### Web Development
 - Completed Frontend Mentor projects, demonstrating proficiency in HTML, CSS, and JavaScript.
@@ -21,6 +18,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-joy-jaya-k
   
 ### Websocket Chat Application
 - Designed and implemented a websocket-based chat application, highlighting real-time communication skills.
+
+### FP Maze Game Development
+- Developed this interactive game First Person Maze Game showcasing creativity and problem-solving skills.
+- Everything Done with the Help of Unity HUB Game Development IDE and also for Assets Building BLENDER.
 
 ### Problem Solving
 - Consistently solved challenges on platforms like HackerRank and LeetCode(Beginner), honing problem-solving abilities of Dta Structure and algorithmic thinking.
