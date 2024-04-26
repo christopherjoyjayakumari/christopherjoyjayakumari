@@ -24,7 +24,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-joy-jaya-k
 - Everything Done with the Help of Unity HUB Game Development IDE and also for Assets Building BLENDER.
 
 ### Problem Solving
-- Consistently solved challenges on platforms like HackerRank and LeetCode(Beginner), honing problem-solving abilities of Dta Structure and algorithmic thinking.
+- Consistently solved challenges on platforms like HackerRank and LeetCode(Beginner), honing problem-solving abilities of Data Structure and algorithmic thinking.
 
 ---
 
