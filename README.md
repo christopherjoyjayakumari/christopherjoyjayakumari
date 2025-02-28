@@ -1,7 +1,7 @@
 # Christopher J - Portfolio
 
 ## About Me
-I am Christopher J, currently pursuing B.E in Computer Science Engineering in Chennai, Tamil Nadu, India. Passionate about problem-solving and coding, I thrive on challenges and enjoy delving into various aspects of software as well as Web development.
+I am Christopher J, currently B.E Computer Science Engineering graduate Batch 2020-24 pass-out lives in Chennai, Tamil Nadu, India. Passionate about problem-solving and coding, I thrive on challenges and enjoy delving into various aspects of software as well as Web development.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-joy-jaya-kumari-395ab8216/) | Follow me on [Instagram](https://www.instagram.com/christopher.joyjayakumari/)
 
